@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5740cf87.css",
+    "main.js": "/static/js/main.79622287.js",
+    "static/js/787.d53f9082.chunk.js": "/static/js/787.d53f9082.chunk.js",
+    "static/media/soret1.jpg": "/static/media/soret1.6fc31363368bc1dd9c39.jpg",
+    "static/media/soret2.jpg": "/static/media/soret2.b451acb3fd724cc1ec62.jpg",
+    "static/media/soret3.jpg": "/static/media/soret3.ba046e4bbf9d617345ee.jpg",
+    "index.html": "/index.html",
+    "main.5740cf87.css.map": "/static/css/main.5740cf87.css.map",
+    "main.79622287.js.map": "/static/js/main.79622287.js.map",
+    "787.d53f9082.chunk.js.map": "/static/js/787.d53f9082.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.79622287.js"
+  ]
+}
